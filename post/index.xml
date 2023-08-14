@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sai Durga Prasad</title>
+    <link>https://saibattula93.github.io/Sai-Portfolio/post/</link>
+    <description>Recent content in Projects on Sai Durga Prasad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://saibattula93.github.io/Sai-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-7: Text summarization</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-7/</link>
+      <pubDate>Tue, 01 Aug 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-7/</guid>
+      <description>Overview Welcome to our Text Summarization Project! This Readme provides a comprehensive understanding of our project&amp;rsquo;s purpose, goals, requirements, methodology, architecture, pipeline, and conclusion.
+1. Model Overview Our project focuses on creating a text summarization model using the Samsum dataset. The main objective is to automate the process of summarizing lengthy pieces of text while retaining their key information and meaning. Leveraging machine learning techniques, our model aims to produce concise and coherent summaries.</description>
+    </item>
+    
+    <item>
+      <title>Project-6: Cat vs Dog Image Classification using MLops</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-6/</link>
+      <pubDate>Mon, 03 Jul 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-6/</guid>
+      <description>1.Overview This design doc outlines the development of a web application for Image Classification using a synthetic dataset. The application will utilize Deep learning models that:
+Evaluates whether the Image will Cat or Dog based on process parameters, different sizes, orientations, or backgrounds.
+This documentation presents the development of an image classification model using Convolutional Neural Networks (CNN) to distinguish between images of cats and dogs. The model is designed to analyze the unique features of cat and dog images and accurately predict the class of a given input image.</description>
+    </item>
+    
+    <item>
+      <title>Project-5: Advanced Cricket Tournament Simulation</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-5/</link>
+      <pubDate>Tue, 20 Jun 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-5/</guid>
+      <description>Overview The Advanced Cricket Tournament Simulation Program, developed in Python, mimics real cricket matches. Using object-oriented programming, it models players, teams, field conditions, and match dynamics. The simulation delivers ball-by-ball actions, scores, wickets, and commentary for an authentic cricket experience.
+Motivation This program aims to provide cricket enthusiasts, students, and developers insight into cricket intricacies. By offering a detailed simulation, users can delve into strategic aspects, player stats, and match influences, enhancing their understanding of the sport.</description>
+    </item>
+    
+    <item>
+      <title>Project-4: MiniChat</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-4/</link>
+      <pubDate>Thu, 01 Jun 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-4/</guid>
+      <description>Overview Welcome to the &amp;ldquo;Chatbot Using Samsung Dataset&amp;rdquo; project README. This repository hosts a sophisticated chatbot model developed using data from Samsung. This chatbot is designed to engage in meaningful conversations, providing human-like responses through the power of advanced technology.
+Motivation Our motivation behind crafting this chatbot lies in the fascination of creating an AI-powered conversational agent. We aim to showcase the seamless integration of machine learning and natural language processing to facilitate interactive and intelligent dialogues.</description>
+    </item>
+    
+    <item>
+      <title>Project-3: Student Performance Prediction using MLops</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-3/</link>
+      <pubDate>Tue, 02 May 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-3/</guid>
+      <description>Welcome to the Student Performance Prediction using MLops in Regression project! In this repository, we present an end-to-end solution for predicting student performance using Machine Learning and adopting MLOps practices. This README provides an overview of the model, its motivation, success metrics, requirements, methodology, architecture, pipeline, and conclusion.
+1. Overview of the Model This project understands how the student’s performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, and Lunch and Test preparation course.</description>
+    </item>
+    
+    <item>
+      <title>Project-2: Customer Churn Prediction Model</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-2/</link>
+      <pubDate>Wed, 05 Apr 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-2/</guid>
+      <description>This repository contains a machine learning model for predicting customer churn in a business.
+Motivation The purpose of this project is to develop a model that can predict customer churn, helping businesses take proactive measures to retain customers and reduce revenue loss.
+Success Metrics The success of the model will be evaluated based on accuracy, precision, recall, and F1 score.
+Requirements &amp;amp; Constraints Functional Requirements Access to historical customer data. Python environment with necessary libraries.</description>
+    </item>
+    
+    <item>
+      <title>Project-1: Predict cancer mortality rates for US counties</title>
+      <link>https://saibattula93.github.io/Sai-Portfolio/post/project-1/</link>
+      <pubDate>Fri, 10 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://saibattula93.github.io/Sai-Portfolio/post/project-1/</guid>
+      <description>1. Overview of the Model The model is a multivariate Ordinary Least Squares (OLS) regression designed to predict cancer mortality rates for different counties in the United States. It leverages a dataset that incorporates diverse information, including demographic, economic, educational, and healthcare-related features, to build a predictive model for the &amp;ldquo;TARGET_deathRate&amp;rdquo; variable.
+2. Motivation of the Model The primary motivation behind building this model is to provide a tool that can assist in understanding and predicting cancer mortality rates across counties.</description>
+    </item>
+    
+  </channel>
+</rss>
